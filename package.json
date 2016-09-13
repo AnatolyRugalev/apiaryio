@@ -1,6 +1,6 @@
 {
   "name": "apiaryio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Command-line utility for apiary.io",
   "main": "lib/main.js",
   "bin": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Understeam/apiaryio-js.git"
+    "url": "git+https://github.com/AnatolyRugalev/apiaryio.git"
   },
   "author": "Anatoly Rugalev <anatoly.rugalev@gmail.com>",
   "license": "GPL-3.0",
