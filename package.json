@@ -1,6 +1,6 @@
 {
   "name": "apiaryio",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Command-line utility for apiary.io",
   "main": "lib/main.js",
   "bin": {
