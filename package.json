@@ -1,0 +1,27 @@
+{
+  "name": "apiaryio",
+  "version": "0.0.1",
+  "description": "Command-line utility for apiary.io",
+  "main": "lib/main.js",
+  "bin": {
+    "apiary": "bin/apiary.js"
+  },
+  "dependencies": {
+    "request": "^2",
+    "commander": "^2.9",
+    "open": "0.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Understeam/apiaryio-js.git"
+  },
+  "author": "Anatoly Rugalev <anatoly.rugalev@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Understeam/apiary-publish/issues"
+  },
+  "homepage": "https://github.com/Understeam/apiary-publish#readme"
+}
