@@ -31,7 +31,7 @@ apiary preview <api_name>
 ## Use in code
 
 ```js
-var apiary = require('apiary');
+var apiary = require('apiaryio');
 
 // Publish code
 
